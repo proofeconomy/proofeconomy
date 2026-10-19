@@ -4,7 +4,7 @@
 
 ## Core terms
 
-- **[Proof of Efficacy](https://proofeconomy.com/glossary/proof-of-efficacy/):** independent, repeatable evidence that a security product does what its vendor claims, produced by running real adversarial techniques against it in an environment that matches the customer's own.
+- **[Proof of Efficacy](https://proofeconomy.com/proof-of-efficacy/):** evidence that a system produced the required outcome, under the required conditions, at a standard good enough to matter.
 - **[Self-Attestation](https://proofeconomy.com/glossary/self-attestation/):** a vendor, system or AI agent vouching for its own security or performance without independent adversarial verification.
 - **[Unit of Proof](https://proofeconomy.com/glossary/unit-of-proof/):** the measured outcome of one adversarial technique (TTP) executed against one control.
 
